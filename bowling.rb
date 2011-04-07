@@ -1,4 +1,6 @@
 # Code kata for bowling game
+require 'kata'
+
 kata 'Bowling' do
   context 'roll method' do
     requirement 'create the roll method for storing the felled pins' do
